@@ -1,0 +1,11 @@
+c:\users\omard\onedrive\documents\visual studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe.config
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.pdb
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.xml
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbprojResolveAssemblyReference.cache
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.frmAverageUnitsShipped.resources
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Resources.resources
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.GenerateResource.Cache
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.exe
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.xml
+C:\Users\omard\OneDrive\Documents\Visual Studio 2015\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.pdb
